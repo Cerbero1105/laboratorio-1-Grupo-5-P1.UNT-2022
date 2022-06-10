@@ -224,6 +224,7 @@ Proceso   CALCULADORA_DE_PORCENTAJES_Y_GRADOS_DE_5_CURSOS
 		Escribir "En INFORMÁTICA Posees un porcentaje de ",porc_5,"%"," y por ende estas en el grado ",grad_5
 		
 	FinSi
-
+	
+	
 FinProceso
 
