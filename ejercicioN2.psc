@@ -42,5 +42,6 @@ Proceso FACTURA_ELECTRICIDAD
 	
 	Escribir "Su consumo de ",consumo," KW"," genero un costo de ", fp," soles y un recargo adicional de ",ra," soles"
 	Escribir "Esto deriva en una factura de ",ft," soles"
+	
 FinProceso
 
